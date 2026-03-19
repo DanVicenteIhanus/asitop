@@ -11,7 +11,7 @@ Performance monitoring CLI tool for Apple Silicon
 uv tool install git+[https://github.com/DanVicenteIhanus/asitop.git](https://github.com/YOUR_USERNAME/asitop.git)
 
 # Or install using pip
-pip install git+[https://github.com/DanVicenteIhanus/asitop.git](https://github.com/YOUR_USERNAME/asitop.git)
+pip install git+[https://github.com/YOUR_USERNAME/asitop.git](https://github.com/YOUR_USERNAME/asitop.git)
 ```
 
 ## What is `asitop`
