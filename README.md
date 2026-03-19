@@ -4,7 +4,7 @@
 
 Performance monitoring CLI tool for Apple Silicon
 
-![](images/asitop.png)
+![](images/asitop.png?v=2)
 
 ```shell
 # Install this custom fork using uv (Recommended)
