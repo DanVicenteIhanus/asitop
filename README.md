@@ -89,9 +89,9 @@ Some information is guesstimate and hardcoded as there doesn't seem to be an off
 * ANE max power
 * Media engine max bandwidth
 
-## Why
+## Why the fork
 
-Because I didn't find something like this online. Also, just curious about stuff.
+Because I use Asitop from time to time to monitor hardware usage, but typically am only interested in the GPU. So wanted a minimal GUI, to just monitor the GPU.
 
 ## Disclaimers
 
